@@ -1,6 +1,8 @@
 # Reactive Core
 
-This is a simple, small project I used for learning more about reactive primitives. It is about 1kb gzipped, and includes the basics of what's needed to make reactive components (State, Effects, Cleanup, Rendering). It uses closures for state (like Solid-JS) to automate each effect's dependency graph.
+About 1kb gzipped, and includes the basics of what's needed to make reactive components (State, Effects, Cleanup, Rendering).
+
+This is a simple, small project I used for learning more about reactive primitives. It uses closures for state (like Solid-JS) to automate each effect's dependency graph.
 
 NOTICE: this is not tested, and shouldn't be used in production. Try [S-JS](https://github.com/adamhaile/S) instead.
 
